@@ -1,5 +1,5 @@
 {
-  "name": "world-clock",
+  "name": "zone-mate",
   "version": "1.0.0",
   "description": "Compare time across world cities",
   "main": "dist/index.js",
